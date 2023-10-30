@@ -33,3 +33,9 @@ I couldn't finish:
 ### Overview
 
 I started off with a solution for the problem and then I decided for other solution using VUE. I then realized that I could simply use react router for the login.
+
+### Run the project
+
+```
+npm run dev
+```
